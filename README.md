@@ -50,6 +50,3 @@ Contributions are welcome! If you'd like to contribute to the project, feel free
 
 Please note that the Whisper model for speech-to-text functionality may not work perfectly on web platforms. Contributions to improve this feature are especially appreciated.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
